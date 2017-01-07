@@ -79,6 +79,9 @@ make sure plugins list is updated (or restart vim)::
 
     :PlugUpdate
 
+Dgulino
+===========
+    ln -s ~/.vim/config/pep8 ~/.config/pep8
 
 Upgrading
 ----------

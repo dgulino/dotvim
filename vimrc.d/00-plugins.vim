@@ -46,7 +46,7 @@ Plug 'edkolev/tmuxline.vim'
 Plug 'fatih/vim-go'
 Plug 'rust-lang/rust.vim'
 Plug 'Quramy/tsuquyomi'
-
+Plug 'mileszs/ack.vim'
 
 " Over 70 language packs
 Plug 'sheerun/vim-polyglot'

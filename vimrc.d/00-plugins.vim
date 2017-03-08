@@ -47,6 +47,9 @@ Plug 'fatih/vim-go'
 Plug 'rust-lang/rust.vim'
 Plug 'Quramy/tsuquyomi'
 Plug 'mileszs/ack.vim'
+Plug 'Konfekt/FastFold'
+Plug 'tmhedberg/SimpylFold'
+Plug 'kopischke/vim-stay'
 
 " Over 70 language packs
 Plug 'sheerun/vim-polyglot'
